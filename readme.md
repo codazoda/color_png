@@ -1,4 +1,4 @@
-# color_png -- PHP Colored PNG Generator
+# Colored PNG Generator
 
 This is a PHP script that returns a PNG image (without generating any files) based on the HTML color code you pass in the 'c' parameter.
 
