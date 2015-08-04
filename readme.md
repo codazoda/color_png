@@ -14,4 +14,4 @@ You should get a tiny 10x10 pixel PNG image in your browser. Change the code at 
 
 This script is useful for generating a background color image. I'm using it to track specific types of statistics. It might be useful for tracking HTML email opens, for example, if you use the color.php script as a background color.
 
-This is a very simple script, although it's not limited to 3-digit codes. It doesn't currently do any sanity checking on the color value you pass. Any values that don't make sense will probably return a black image.
+Although it's not limited to 3-digit codes, it's a very simple script. It doesn't currently do any sanity checking on the color value you pass. Any values that don't make sense will probably return a black image.
