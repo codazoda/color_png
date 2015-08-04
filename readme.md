@@ -4,11 +4,11 @@ This is a PHP script that returns a PNG image (without generating any files) bas
 
 To try it out, just download the color.php file and run the following command in the directory where you saved it.
 
-  php -S localhost:8888
+    php -S localhost:8888
   
 Then open your web browser and point it to the URL below.
 
-  localhost:8888/color.php?c=5BA0D0
+    localhost:8888/color.php?c=5BA0D0
   
 You should get a tiny 10x10 pixel PNG image in your browser. Change the code at the end to try out other colors.
 
